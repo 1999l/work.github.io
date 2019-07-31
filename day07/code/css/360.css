@@ -1,0 +1,378 @@
+.box{
+    width: 100%;
+    height: 1415px;
+}
+.a {
+    width: 100%;
+    height: 107px;
+}
+  .conter{
+    width: 1245px;
+    margin: auto;
+    
+  }  
+.a .conter{
+    border-bottom:1px solid #e5e5e5;
+    height: 107px;
+
+}
+.a .conter div{
+  
+    border-right: 1px solid #e5e5e5;
+    float: left;
+    margin-top: 20px;
+   
+}
+.a1{
+    width: 270px;
+    height: 60px;
+    background: url(../images/images/logos.png)no-repeat 65px 0px;
+    padding-left: 140px;
+}
+.a2{
+    width: 190px;
+    height: 60px;
+    background: url(../images/images/logos.png)no-repeat 65px -80px;
+
+    padding-left: 220px;}
+.a .conter .a3{
+    width: 270px;
+    height: 60px;
+    background: url(../images/images/logos.png)no-repeat 65px -150px;
+    padding-left: 140px;
+    border-right: 0px ;
+}
+.a .conter h2{
+    margin-bottom: 10px;
+    margin-top: 15px;
+    font-size: 16px;
+    line-height: 16px;
+    
+}
+.a .conter p{
+    font-size: 12px;
+    line-height: 12px;
+    color: #999999;
+}
+.b .conter{
+   height: 250px;
+    padding-top: 30px;
+}
+.b .conter .zuo{
+    float: left;
+    width: 900px;
+    margin-right: 15px;
+
+}
+.s1{
+    color: #23ac38;
+    
+    margin-left: 8px;
+}
+
+ .l{
+    border-left: 2px solid #23ac38;
+    margin-bottom: 20px;
+}
+.b .conter span:nth-child(2){
+    float: right;
+    font-size: 12px;
+    color: #999999;
+}
+.b .conter .zuo div{
+    width: 290px;
+    height: 207px;
+    border: 1px solid #e5e5e5;
+    float: left;
+    margin-right: 10px;
+}
+.b .conter .zuo .b3{
+    margin-right: 0px;
+}
+.b .conter .zuo img{
+    
+    width: 290px;
+    height: 162px;
+}
+.b .conter .zuo .bi{
+    
+    font-size: 12px;
+    line-height: 45px;
+    text-align: center;
+}
+.b .conter .you{
+    width: 326px;
+    float: left;
+}
+.b .conter .you .app{
+    width: 328px;
+    height: 209px;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+}
+.b .conter .you .app div{
+    width: 108px;
+    height: 104px;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid  #ccc;
+    float: left;
+}
+.b .conter .you .app i{
+    display: block;
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top:14px ;
+    left: 42px;
+   
+}
+.b .conter .you .app1 i{
+    background: url(../images/CSS.png)
+}
+.b .conter .you .app2 i{
+    background: url(../images/CSS.png) 0px -30px;
+}
+.b .conter .you .app3 i{
+    background: url(../images/CSS.png) 0px -60px;
+}
+.b .conter .you .app4 i{
+    background: url(../images/CSS.png) 0px -90px;
+}
+.b .conter .you .app5 i{
+    background: url(../images/CSS.png) 0px -120px;
+}
+.b .conter .you .app6 i{
+    background: url(../images/CSS.png) 0px -150px;
+}
+.b .conter .you .app p{
+    font-size: 12px;
+    position: relative;
+    top:20px ;
+    text-align: center;
+}
+.b .conter .you .app input{
+    width: 40px;
+    height: 17px;
+    border: 1px solid #ccc;
+    font-size: 11px;
+    background-color: #fff;
+    position: relative;
+    top:25px ;
+    left: 32px;
+}
+.c .conter{
+    height: 220px;
+    padding-top: 30px;
+}
+.c .conter div{
+    width: 390px;
+    height: 140px;
+    float: left;
+    border:1px solid #ccc;
+}
+.c .conter .c1{
+    background: url(../images/images/safe1.png)no-repeat 25px 20px;
+    margin-right: 33px;
+}
+.c .conter .c2{
+    background: url(../images/images/safe2.png)no-repeat 25px 20px;
+    margin-right: 33px;
+}
+.c .conter .c3{
+    background: url(../images/images/safe3.png)no-repeat 25px 20px;
+}
+.c .conter .cc{
+    position: relative;
+    top: 35px;
+    left: 145px;
+    font-size: 16px;
+}
+.c .conter .ccc{
+    position: relative;
+    top: 40px;
+    left: 145px;
+    font-size: 12px;
+    color: #8a8a8a;
+    width: 195px;
+    line-height: 20px;
+}
+.d .conter{
+ height: 608px;
+}
+.d .conter .left{
+    width: 605px;
+    height: 600px;
+    float: left;
+    margin-right: 25px;
+}
+.d .conter .left div{
+    width: 300px;
+    height: 140px;
+    float: left;
+    border: 1px solid #ccc;
+}
+.d .conter .left .dl1 a{
+    font-size: 12px;
+    color: #ccc;
+    text-decoration:underline;
+    float: right;
+    margin-right: 10px;
+}
+.d .conter .left  i{
+height: 60px;
+width: 60px;
+display: block;
+position: relative;
+left: 30px;
+top: 40px;
+}
+.d .conter .left .dl1 i{
+    background: url(../images/APP.png)no-repeat;
+}
+.d .conter .left .dl2 i{
+    background: url(../images/APP.png)no-repeat  -60px 0px;
+}
+.d .conter .left .dl3 i{
+    background: url(../images/APP.png)no-repeat  0px -60px;
+}
+.d .conter .left .dl4 i{
+    background: url(../images/APP.png)no-repeat  -60px -60px;
+}
+.d .conter .left .dl5 i{
+    background: url(../images/APP.png)no-repeat  0px -120px;
+}
+.d .conter .left .dl6 i{
+    background: url(../images/APP.png)no-repeat  -60px -120px;
+}
+.d .conter .left .dl7 i{
+    background: url(../images/APP.png)no-repeat  0px -180px;
+}
+.d .conter .left .dl8 i{
+    background: url(../images/APP.png)no-repeat  -60px -180px;
+}
+.d .conter .left h2{
+    position: relative;
+   left: 110px;
+    top:-20px;
+    font-size: 16px;
+}
+.d .conter .left input{
+    position: relative;
+    left: 110px;
+    width: 68px;
+    height: 28px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.d .conter .right{
+    float: left;
+    width: 606px;
+    height: 600px;
+    /* border-left: 1px solid #ccc;
+    border-top: 1px solid #ccc; */
+}
+.d .conter .right .dr1{
+    background: url(../images/images/mall_top.png);
+    width: 604px;
+    height: 280px;
+}
+.d .conter .right div{
+    border: 1px solid #ccc;
+    /* border-bottom: 1px solid #ccc; */
+    float: left;
+}
+.d .conter .right .dr2{
+    width: 301px;
+    height: 140px;
+}
+.d .conter .right .dr2 img{
+    height: 90px;
+    width: 90px;
+    position: relative;
+    top: 15px;
+    left: 100px;
+}
+.d .conter .right .dr2 h2{
+    font-size: 14px;
+    position: relative;
+    top: 50px;
+    left: 40px;
+   
+}
+.d .conter .right .dr2 span{
+    position: relative;
+    top: 25px;
+    left: 40px;
+    color: red;
+}
+.e .conter .left1{
+    float: left;
+    width: 605px;
+    height: 170px;
+    margin-right: 25px;
+}
+.e .conter .right1{
+    float: left;
+    width: 605px;
+    height: 170px;
+    
+}
+.e .conter p{
+    line-height: 44px;
+}
+.e .conter span{
+    border-right: 1px solid #ccc;
+    padding: 0 15px;
+    font-size: 12px;
+    
+}
+.e .conter a{
+    color: #000;
+}
+.e .conter .left1 .l1{
+    background: url(../images/images/tub.png)no-repeat 35px 0; 
+    color: #70c2f8;
+    padding:5px 15px 10px 70px;
+   border-right: 0px;
+    
+}
+.e .conter .left1 .l2{
+    background: url(../images/images/tub.png)no-repeat 35px -40px;  
+    color: #9d85fd;
+    padding:5px  15px 10px 70PX;
+   border-right: 0px;
+    
+}
+.e .conter .left1 .l3{
+    background: url(../images/images/tub.png)no-repeat 35px -85px;  
+    color: #ffaf30;
+    padding:5px  15px 10px 70PX;
+   border-right: 0px;
+    
+}
+.e .conter .right1 .r1{
+    background: url(../images/images/tub.png)no-repeat 35px -128px;  
+    color: #23cbd2;
+    padding:5px  15px 10px 70PX;
+   border-right: 0px;
+    
+}
+.e .conter .right1 .r2{
+    background: url(../images/images/tub.png)no-repeat 35px -175px;  
+    color: #fe8149;
+    padding:5px  15px 10px 70PX;
+   border-right: 0px;
+    
+}
+.e .conter .right1 .r3{
+    background: url(../images/images/tub.png)no-repeat 35px -217px;  
+    color: #1dc984;
+    padding:5px  15px 10px 70PX;
+   border-right: 0px;
+    
+}
+.e .conter .ss{
+    border-right: 0px;
+}
