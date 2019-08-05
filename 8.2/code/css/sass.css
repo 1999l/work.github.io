@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul, li {
+  list-style: none;
+}
+
+#box {
+  display: flex;
+  margin: auto;
+  width: 325px;
+  height: 650px;
+  flex-direction: column;
+}
+
+#box .header {
+  width: 100%;
+  height: 160px;
+  background: #3f454f;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+#box .header ul li:nth-child(1) {
+  flex: 1;
+  display: flex;
+  padding-top: 20px;
+}
+
+#box .header ul li:nth-child(1) span:nth-child(1) {
+  flex: 5;
+  font-size: 16px;
+}
+
+#box .header ul li:nth-child(1) span:nth-child(n+2) {
+  flex: 1;
+  font-size: 24px;
+}
+
+#box .header li {
+  color: #fff;
+}
+
+#box .header li span {
+  font-family: iconfont;
+  padding-left: 10px;
+}
+
+#box .header ul li:nth-child(2) {
+  flex: 3;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 30px;
+}
+
+#box .header ul li:nth-child(2) span {
+  font-size: 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#box .main {
+  flex: 1;
+}
+
+#box .main ul {
+  display: flex;
+  flex-wrap: wrap;
+  overflow: scroll;
+  border-top: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+}
+
+#box .main ul li {
+  width: 25%;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  font-family: iconfont;
+  height: 80px;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 25px;
+}
+
+#box .footer {
+  height: 60px;
+  background: #ccc;
+  padding-top: 10px;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+#box .footer ul {
+  display: flex;
+}
+
+#box .footer ul li {
+  width: 25%;
+  height: 50px;
+  color: #000;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#box .footer ul li span {
+  font-family: iconfont;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
