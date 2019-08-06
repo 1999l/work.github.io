@@ -10,4 +10,4 @@
 
 <a href="https://1999l.github.io/work.github.io/8.2/code/html/金字塔全球购.html">全球购</a>
 
-<a href="https://1999l.github.io/work.github.io/8.2/code/html/work.html">移动端</a>
+<a href="https://1999l.github.io/work.github.io/8.2/code/html/work.html">开源论坛</a>
