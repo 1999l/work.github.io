@@ -9,3 +9,5 @@
  <a href="https://1999l.github.io/work.github.io/7.29/code/html/农业观测站.html">农业观测站</a>
 
 <a href="https://1999l.github.io/work.github.io/8.2/code/html/金字塔全球购.html">全球购</a>
+
+<a href="https://1999l.github.io/work.github.io/8.2/code/html/work.html">移动端</a>
